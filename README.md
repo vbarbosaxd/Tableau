@@ -12,3 +12,5 @@ When you zoom in on any of the maps provided, you can see that the most popular 
 A city map was also created with zip code data overlaid on it, and it showed that population density was highest where the most popular stations were located, suggesting another reason for their popularity was simply because more people were present in the area.
 
 The least popular bike stations over the years were also mapped out to see if a visible trend could be seen. Sure enough, the least used bike stations were placed in locations were there wasn't much foot traffic, and were therefore less accessible to people.
+
+(Link to Tableau maps and dashboards : https://public.tableau.com/app/profile/victoria.barbosa.munoz/viz/CitiBikeAnalytics2020-2022/CitiBikeStory)
